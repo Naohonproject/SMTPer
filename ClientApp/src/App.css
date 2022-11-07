@@ -1,0 +1,12 @@
+.App {
+  background: url(../public/img/gun90.webp) no-repeat center center;
+  height: 100vh;
+  position: relative;
+}
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

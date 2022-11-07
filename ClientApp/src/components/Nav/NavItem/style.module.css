@@ -1,0 +1,13 @@
+.navItem {
+  padding: 16px;
+  position: relative;
+}
+
+.navAbove {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 120px;
+  cursor: pointer;
+}

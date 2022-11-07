@@ -1,0 +1,11 @@
+.navBarBrand {
+  width: 110px;
+  cursor: pointer;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.navBarColor {
+  background-color: rgba(0, 255, 220, 0.5);
+}

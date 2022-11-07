@@ -1,0 +1,7 @@
+.bg-gray {
+  background-color: black !important;
+}
+.bg-custom {
+  background-color: rgba(0, 190, 160, 0.6);
+  color: white;
+}

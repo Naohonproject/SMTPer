@@ -1,0 +1,16 @@
+.slogan {
+  clear: both;
+  padding: 32px;
+  font-family: "Playball";
+  color: #fff;
+  font-size: 2.5em;
+  text-align: center;
+  text-shadow: 0 0 8px #000;
+  font-style: italic;
+}
+
+.author {
+  font-family: Oswald;
+  font-size: 0.6em;
+  font-weight: lighter !important;
+}

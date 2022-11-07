@@ -1,0 +1,7 @@
+.toBottom {
+  height: calc(100vh - 60px);
+}
+
+.bg-trans {
+  background: rgba(150, 150, 150, 0.5);
+}

@@ -1,0 +1,18 @@
+.nanoMenu {
+  width: 100%;
+  height: 52px;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #e0e0e0;
+  _font-size: 14px;
+  _line-height: 16px;
+  z-index: 1000;
+  transition: all ease 0.3s;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 12px rgb(0 0 0 / 80%);
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
